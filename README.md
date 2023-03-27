@@ -1,16 +1,14 @@
-# contador
+ # Flutter proyecto contador
 
-A new Flutter project.
+Aplicación con flutter donde creamos un contador
 
-## Getting Started
+  ## Descripción
 
-This project is a starting point for a Flutter application.
+Aplicación web móvil creada con flutter donde hacemos un contador. Podemos sumar un +1, restar un -1 o reinciar el valor a 0
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ## Autor ✒️
+**Adrián Torres**
+* [Github](https://github.com/Adriat1994)
+* [Linkedin](https://www.linkedin.com/in/adri%C3%A1n-torres-serrano-a2519a141/)
